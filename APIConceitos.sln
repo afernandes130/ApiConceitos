@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIConceitos", "APIConceitos\APIConceitos.csproj", "{660202D9-110B-4F50-91B2-F72DD061ACFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660202D9-110B-4F50-91B2-F72DD061ACFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660202D9-110B-4F50-91B2-F72DD061ACFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660202D9-110B-4F50-91B2-F72DD061ACFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660202D9-110B-4F50-91B2-F72DD061ACFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8170AE-4071-4825-8E43-4468924A2B39}
+	EndGlobalSection
+EndGlobal
